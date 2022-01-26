@@ -25,7 +25,7 @@ jobs:
 
     
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: echo Hellooooo, world!
 
      
       - name: Run a multi-line script
