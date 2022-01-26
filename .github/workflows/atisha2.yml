@@ -46,4 +46,4 @@ jobs:
 
     
       - name: Run a one-line script
-        run: echo Atishaaaaaa!
+        run: echo Atishaaaaaaaaaaa!
