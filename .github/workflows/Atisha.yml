@@ -45,7 +45,7 @@ jobs:
 
     
       - name: Run a one-line script
-        run: echo Hello, Atisha!
+        run: echo Hello, Atisha Shaurya!
 
      
       
